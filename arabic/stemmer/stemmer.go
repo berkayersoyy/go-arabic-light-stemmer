@@ -2,11 +2,11 @@ package stemmer
 
 import (
 	"fmt"
-	"go-arabic-stemmer/arabic/constant"
-	"go-arabic-stemmer/arabic/roots"
-	"go-arabic-stemmer/arabic/stamp"
-	"go-arabic-stemmer/arabic/stop_words"
-	"go-arabic-stemmer/arabic/utils"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/constant"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/roots"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/stamp"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/stop_words"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/utils"
 	"regexp"
 	"sort"
 	"strings"

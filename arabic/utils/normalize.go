@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"go-arabic-stemmer/arabic/constant"
-	"go-arabic-stemmer/arabic/regex"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/constant"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/regex"
 )
 
 func StripTashkeel(text string) string {

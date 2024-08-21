@@ -1,6 +1,6 @@
 package stop_words
 
-import "go-arabic-stemmer/arabic/constant"
+import "github.com/berkayersoyy/go-arabic-light-stemmer/arabic/constant"
 
 type TashkeelChecker interface {
 	IsTashkeel(char rune) bool

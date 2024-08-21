@@ -1,8 +1,8 @@
 package stamp
 
 import (
-	"go-arabic-stemmer/arabic/constant"
-	"go-arabic-stemmer/arabic/stop_words"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/constant"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/stop_words"
 	"regexp"
 	"strings"
 )

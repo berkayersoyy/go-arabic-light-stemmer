@@ -1,8 +1,8 @@
 package roots
 
 import (
-	"go-arabic-stemmer/arabic/constant"
-	"go-arabic-stemmer/arabic/utils"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/constant"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/utils"
 	"strings"
 )
 

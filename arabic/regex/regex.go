@@ -1,7 +1,7 @@
 package regex
 
 import (
-	"go-arabic-stemmer/arabic/constant"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/constant"
 	"regexp"
 	"strings"
 )

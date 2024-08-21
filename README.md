@@ -39,7 +39,7 @@ import (
 func main() {
     // Example usage
     text := "النص العربي هنا"
-    stemmed := go-arabic-light-stemmer.LightStem(text)
+    stemmed := github.com/berkayersoyy/go-arabic-light-stemmer.LightStem(text)
     fmt.Println("Stemmed Text:", stemmed)
 }
 ```
