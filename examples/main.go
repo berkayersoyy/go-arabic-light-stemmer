@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-arabic-light-stemmer/arabic/stemmer"
+	"github.com/berkayersoyy/go-arabic-light-stemmer/arabic/stemmer"
 )
 
 func main() {
